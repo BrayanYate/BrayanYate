@@ -30,12 +30,14 @@
 ## 📊 Estadísticas de GitHub  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrayanYate&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=30&animate=true" alt="Estadísticas">
+  <img  align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=BrayanYate&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=30&animate=true" alt="Estadísticas">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanYate&layout=compact&theme=radical&hide_border=true&langs_count=8&animate=true" alt="Lenguajes">
+<div align="center" >
+  <img  align="left" width="300px"  marge-left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanYate&layout=compact&theme=radical&hide_border=true&langs_count=8&animate=true" alt="Lenguajes">
 </div>
+
+<br clear="both">
 
 ## 🌱 Actualmente aprendiendo  
 
